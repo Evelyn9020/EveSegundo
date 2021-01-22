@@ -1,3 +1,5 @@
+
+// Evelyn Quinatoa
 $(document).on("click","#btn-registrar",function(){
 // validar apellido
 let apellido=$("#txt-apellidos").val();
